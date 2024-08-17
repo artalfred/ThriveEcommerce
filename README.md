@@ -8,3 +8,4 @@ Features:
 4. Search Bar: Quickly find the products you're looking for using the intuitive search bar, ensuring a convenient browsing experience.
 
 With these features, my E-commerce project offers an enjoyable and user-friendly interface, providing a seamless shopping journey for customers like you.
+# ThriveEcommerce
